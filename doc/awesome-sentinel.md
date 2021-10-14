@@ -21,6 +21,7 @@ You can also add to [sentinel-group/sentinel-awesome](https://github.com/sentine
 
 - Sentinel 1.6.0 网关流控新特性介绍-Eric Zhao (Dubbo Tech Day-201905-Beijing): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%201.6.0%20网关流控新特性介绍-Eric%20Zhao-DTED-201905.pdf)
 - Sentinel 微服务流控降级实践-Eric Zhao (Dubbo Tech Day-201907-Shenzhen): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%20微服务流控降级实践-Eric%20Zhao-DTED-201907.pdf)
+- Sentinel 1.7.0 新特性展望-Eric Zhao (Dubbo Tech Day-201910-Chengdu): [PDF](https://github.com/sentinel-group/sentinel-awesome/blob/master/slides/Sentinel%201.7.0%20新特性展望-Eric%20Zhao-DTED-201910.pdf)
 
 ## Tutorials
 
@@ -28,7 +29,7 @@ You can also add to [sentinel-group/sentinel-awesome](https://github.com/sentine
 
 ## Demos
 
-- [sentinel-zuul-example](https://github.com/tigerMoon/sentinel-zuul-sample): A simple project integration Sentinel to Spring Cloud Zuul which provide Service and API Path level flow control management by [tiger](https://github.com/tigerMoon)
+- [sentinel-zuul-example](https://github.com/tigerMoon/sentinel-zuul-sample): A simple project integration Sentinel to Spring Cloud Zuul which provides Service and API Path level flow control management by [tiger](https://github.com/tigerMoon)
 
 ## Extensions / Integrations
 
@@ -39,7 +40,7 @@ You can also add to [sentinel-group/sentinel-awesome](https://github.com/sentine
 
 ## Blog Posts
 
-- [Sentinel 为 Dubbo 服务保驾护航](http://dubbo.apache.org/zh-cn/blog/sentinel-introduction-for-dubbo.html) by [Eric Zhao](https://github.com/sczyh30)
+- [Sentinel 为 Dubbo 服务保驾护航](https://dubbo.apache.org/zh/blog/2018/07/27/sentinel-为-dubbo-服务保驾护航) by [Eric Zhao](https://github.com/sczyh30)
 - [在生产环境中使用 Sentinel 控制台](https://github.com/alibaba/Sentinel/wiki/在生产环境中使用-Sentinel) by [Eric Zhao](https://github.com/sczyh30)
 - [Sentinel 与 Hystrix 的对比](https://sentinelguard.io/zh-cn/blog/sentinel-vs-hystrix.html) by [Eric Zhao](https://github.com/sczyh30)
 - [Guideline: 从 Hystrix 迁移到 Sentinel](https://sentinelguard.io/zh-cn/blog/guideline-migrate-from-hystrix-to-sentinel.html) by [Eric Zhao](https://github.com/sczyh30)
@@ -71,3 +72,5 @@ You can also add to [sentinel-group/sentinel-awesome](https://github.com/sentine
   - [Sentinel 深入浅出之原理篇 DegradeSlot](https://www.jianshu.com/p/e910d4840e4a)
 - [Alibaba Sentinel RESTful 接口流控处理优化](https://www.jianshu.com/p/96f5980d9798) by [luanlouis](https://github.com/luanlouis)
 - [Sentinel 控制台前端开发环境搭建](https://www.cnblogs.com/cdfive2018/p/11084001.html) by [cdfive](https://github.com/cdfive)
+- [阿里 Sentinel 源码解析](https://www.javadoop.com/post/sentinel) by [Javadoop](https://www.javadoop.com)
+- [Introduction to Alibaba Sentinel](https://www.baeldung.com/java-sentinel-intro) by [Amit Bhave](https://github.com/Amitbhave)
